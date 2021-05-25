@@ -1,4 +1,4 @@
-# Sincronizando o Github
+# Fixar Git e Sincronizar o Github
 
 usethis::use_git()
 
